@@ -6,7 +6,7 @@ image::elastic-kibana.jpg[]
 
 == Giveaway to
 
-* Empty spot
+* link:https://github.com/chdorb[@chdorb]
 * Empty spot
 * Empty spot
 * Empty spot
