@@ -11,14 +11,14 @@
 ----
 
 * If your pull-request is merged, You have the goodie,
-* Now, you must find me at meetups or at work.
-* When you have your goodie, Enjoy your life :-) !
+* Now, **you must find me at meetups or at work**.
+* When you have your goodie, Enjoy the life :-) !
 
 == Giveaway Cost
 
 * **Nothing**
-* You can talk to me, if you want
-* You can give me your curriculum vitae, if you want join me at link:https://github.com/Sfeir[@Sfeir]
+* Or, you can talk to me, if you want to,
+* And you can also give me your curriculum vitae, if you want join me at link:https://github.com/Sfeir[@Sfeir]
 
 == Goodies list
 
