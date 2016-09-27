@@ -6,4 +6,4 @@ image::github-saritocat.png[]
 
 == Giveaway to
 
-* Empty spot
+* link:https://github.com/0gust1[@0gust1]
