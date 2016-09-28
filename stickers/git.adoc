@@ -6,6 +6,6 @@ image::git.png[]
 
 == Giveaway to
 
-* Empty spot
+* link:https://github.com/denouche[@denouche]
 * Empty spot
 * Empty spot

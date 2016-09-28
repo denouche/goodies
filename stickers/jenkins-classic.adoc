@@ -6,4 +6,5 @@ image::jenkins-classic.png[]
 
 == Giveaway to
 
-* empty slot
+* link:https://github.com/denouche[@denouche]
+

@@ -6,4 +6,4 @@ image::github-octocat-with-pencil.jpg[]
 
 == Giveaway to
 
-* Empty spot
+* link:https://github.com/denouche[@denouche]
