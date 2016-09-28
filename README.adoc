@@ -60,9 +60,9 @@
 |link:stickers/github-robotocat.adoc[Github Robotocat]
 
 |link:stickers/jenkins-classic.adoc[Jenkins Classic]
-|link:stickers/jenkins-ninja.adoc[Jenkins Ninja]
 |link:stickers/jenkins-cloudbees.adoc[Jenkins Cloudbees]
 |link:stickers/jenkins-cloudbees-gear.adoc[Jenkins Cloudbees Gear]
+|
 |
 
 |link:stickers/logmatic.adoc[Logmatic]
