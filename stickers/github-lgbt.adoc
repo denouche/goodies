@@ -2,7 +2,7 @@
 
 == View
 
-image::github-lgbt.png[]
+image::github-lgbt.jpeg[]
 
 == Giveaway to
 
