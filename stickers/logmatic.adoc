@@ -2,7 +2,7 @@
 
 == View
 
-image::logmatic.png[]
+image::logmatic.jpg[]
 
 == Giveaway to
 
